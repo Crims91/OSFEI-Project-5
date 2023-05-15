@@ -138,7 +138,7 @@ const DetailsPage = () => {
               onClick={() => {
                 dispatch(getBookFavorite(book!));
               }}
-              sx={{ marginTop: 3 }}
+              sx={{ marginTop: 2 }}
             >
               Add to Favorites
             </Button>

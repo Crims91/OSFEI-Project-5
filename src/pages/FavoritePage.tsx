@@ -130,7 +130,7 @@ const FavoritePage = () => {
           color="secondary"
           variant="outlined"
           onClick={() => navigate(-1)}
-          sx={{ marginTop: 3, marginLeft: 2 }}
+          sx={{ marginTop: 3, marginBottom: 3, marginLeft: 2 }}
         >
           Back to Main Menu
         </Button>
